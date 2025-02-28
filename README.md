@@ -1,16 +1,49 @@
-### Hi there 👋
+Olá! Eu sou o Paulo Lira :wave:
 
-<!--
-**PauloLiraDev/PauloLiraDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:computer: Tecnologias e Ferramentas que Utilizo
 
-Here are some ideas to get you started:
+:rocket: Linguagens
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+:gear: Frameworks
+
+
+
+
+
+
+
+:floppy_disk: Bancos de Dados
+
+
+
+
+
+
+:cloud: Deploy e Cloud
+
+
+
+
+
+
+
+
+
+
+
+:hammer_and_wrench: IDEs e Ferramentas
+
+
+
+
+
+:octocat: Conecte-se Comigo
+
