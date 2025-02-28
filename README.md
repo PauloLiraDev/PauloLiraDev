@@ -1,6 +1,6 @@
 Olá! Eu sou o Paulo Lira :wave:
 
-Com mais de um ano de experiência como desenvolvedor, atuando principalmente com a linguagem Python, eu pude desenvolver uma sólida compreensão dos paradigmas de programação procedurais e orientados a objetos. Minha experiência de trabalho com RPA me permitiu entender como a automação de processos pode ajudar a simplificar o trabalho repetitivo e melhorar a eficiência em um ambiente de negócios.
+Com mais de três anos de experiência como desenvolvedor, atuando principalmente com a linguagem Python, eu pude desenvolver uma sólida compreensão dos paradigmas de programação procedurais e orientados a objetos. Minha experiência de trabalho com RPA me permitiu entender como a automação de processos pode ajudar a simplificar o trabalho repetitivo e melhorar a eficiência em um ambiente de negócios.
 
 Além do Python, também tenho familiaridade com C# e .NET Framework. Possuo conhecimento em criação e consumo de APIs, verbos HTTP, arquitetura REST, autenticação e autorização para garantir a segurança dos dados. Tenho experiência profissional em cloud, incluindo armazenamento, máquinas de estado e programação orientada a eventos.
 
