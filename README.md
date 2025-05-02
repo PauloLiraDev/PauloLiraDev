@@ -8,6 +8,22 @@ Também tive alguns contatos com assincronismo, paralelismo e concorrência, que
 
 Busco sempre estar aprendendo novas tecnologias e técnicas de programação para aprimorar minhas habilidades e minhas soluções de software. Com habilidades em comunicação e colaboração, sou um membro efetivo da equipe, capaz de trabalhar com colegas e stakeholders para alcançar ótimos resultados.
 
+<h2>Conheça minha ferramenta para aumentar sua produtividade com comandos de terminal no PyPI</h2>
+
+<p align="center">
+  <a href="https://pypi.org/project/cl-assistant/">cl-assistant</a><br>
+  <a href="https://pypi.org/project/cl-assistant/">
+    <img src="https://img.shields.io/pypi/v/cl-assistant" alt="PyPI - Version">
+  </a>
+</p>
+
+<p align="center">
+  O <strong>PyPI</strong> (Python Package Index) é o repositório oficial de pacotes Python.<br>
+  É onde desenvolvedores publicam bibliotecas e ferramentas para serem instaladas com <code>pip</code>.
+</p>
+<br>
+<br>
+
 ## :rocket: Linguagens
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
